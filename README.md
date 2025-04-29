@@ -102,3 +102,6 @@ int main() {
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/8719c113-02ec-45fc-9684-d7f7dd57df04)
 
+## RESULT
+
+The code executed successfully.
